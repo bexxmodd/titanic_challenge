@@ -1,2 +1,2 @@
-# titanic challenge
-Kaggle challenge for predicting if the passenger survived the crash or not
+# Would You Have Survived The Titanic Crash? The Predictive Analysis
+Kaggle challenge for predicting if the passenger survived the titanic crash or not
